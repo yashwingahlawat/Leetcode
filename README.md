@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/yashwingahlawat/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3394-minimum-array-end](https://github.com/yashwingahlawat/Leetcode/tree/master/3394-minimum-array-end) |
 ## Counting
 |  |
 | ------- |
