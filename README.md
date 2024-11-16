@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yashwingahlawat/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/yashwingahlawat/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yashwingahlawat/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/yashwingahlawat/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -51,4 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/yashwingahlawat/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+## Two Pointers
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yashwingahlawat/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yashwingahlawat/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yashwingahlawat/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yashwingahlawat/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
