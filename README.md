@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yashwingahlawat/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/yashwingahlawat/Leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
