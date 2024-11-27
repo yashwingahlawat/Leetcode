@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/yashwingahlawat/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashwingahlawat/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yashwingahlawat/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/yashwingahlawat/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/yashwingahlawat/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Dynamic Programming
 |  |
@@ -92,8 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/yashwingahlawat/Leetcode/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/yashwingahlawat/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Greedy
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/yashwingahlawat/Leetcode/tree/master/2089-maximum-matrix-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/yashwingahlawat/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
