@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/yashwingahlawat/Leetcode/tree/master/0139-word-break) |
 | [0812-rotate-string](https://github.com/yashwingahlawat/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/yashwingahlawat/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/yashwingahlawat/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/yashwingahlawat/Leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/yashwingahlawat/Leetcode/tree/master/0162-find-peak-element) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yashwingahlawat/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/yashwingahlawat/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/yashwingahlawat/Leetcode/tree/master/0139-word-break) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/yashwingahlawat/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yashwingahlawat/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/yashwingahlawat/Leetcode/tree/master/0139-word-break) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/yashwingahlawat/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashwingahlawat/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/yashwingahlawat/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -114,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yashwingahlawat/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/yashwingahlawat/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/yashwingahlawat/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
